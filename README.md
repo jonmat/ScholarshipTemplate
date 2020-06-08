@@ -2,12 +2,12 @@
 Spreadsheet for estimating scholarship grants
 ## Instructions
 * Under the Starting, or initial values, column:
-** Enter the starting date
-** Enter the starting Endowment amount
-** Enter the Estimated Yearly costs for college, tuition and expenses.
-** Enter the % amount to grant for the scholarship, based off of Yearly costs.
-** Enter Guestimates for return on investment % year over year, and for yearly costs collget increase.
-** Optionally determine the rounding of the scholarship, initally set to currently lower of nearest 500.
+  * Enter the starting date
+  * Enter the starting Endowment amount
+  * Enter the Estimated Yearly costs for college, tuition and expenses.
+  * Enter the % amount to grant for the scholarship, based off of Yearly costs.
+  * Enter Guestimates for return on investment % year over year, and for yearly costs collget increase.
+  * Optionally determine the rounding of the scholarship, initally set to currently lower of nearest 500.
 
 ## Once a year, on the year's row, update the actual amounts obtained.
 * Under the <B>Actual Scholarship</B> column, enter the ammount for the granted scholarship
