@@ -1,12 +1,12 @@
 # ScholarshipTemplate
-Spreadsheet for estimating scholarship grants
+Spreadsheet for estimating scholarship grants that are adjusted to be a percent of the expected yearly costs of college. Allowing for the grant amount to keep pace with inflation.
 ## Instructions
-* Under the Starting, or initial values, column:
-  * Enter the starting date
-  * Enter the starting Endowment amount
-  * Enter the Estimated Yearly costs for college, tuition and expenses.
-  * Enter the % amount to grant for the scholarship, based off of Yearly costs.
-  * Enter Guestimates for return on investment % year over year, and for yearly costs collget increase.
+* Set up the following Beginning initial values:
+  * Enter the <B>Start Year</B>
+  * Enter the <B>Starting Scholarship Investment</B> endowment amount
+  * Enter the <B>Estimated Yearly Costs</B> for college, tuition and expenses.
+  * Enter the <B>Percent of Yearly Costs to Grant</B> amount--used to calculate the amount to grant for the scholarship, a percent derived from the Estimated Yearly Costs.
+  * Enter Guestimates for % investment returns year over year, and for % yearly costs will increase by.
   * Optionally determine the rounding of the scholarship, initally set to currently lower of nearest 500.
 
 ## Once a year, on the year's row, update the actual amounts obtained.
@@ -16,7 +16,8 @@ Spreadsheet for estimating scholarship grants
 * Under the <B>Additional Contributions</B> column, adjust the net ammount of the Endowment +/- the difference between what's in the spreadsheet, and the actual endowment investements remaining. This would include the aggregate of all returns, and any additional gifts.
 
 ## Special notes
-* <B>25 Year Warn====></B> The spreadsheet will highlight a warning, when it is estimated that there are only 25 years remaining from that point in time, before all funds are expended.
+* <B>25 Year Warn====></B> The spreadsheet will highlight a warning, when the Scholarship Grant amount will fall below the expected percent of Yearly College costs designated.
+* If funds do expire, then <B>Last Year====></B> will be displayed on the last year of the scholarship.
 ** This gives the opportunity to adjust, delay the scholarship, per instructions of the Endowment, to help extend its lifetime.
 * The Recommended Scholarship column is a crude approximation for how to extend the life beyond 25 years. A better computation should be explored and replace this column.
 * The notes column should be filled out with any additional addendum information, for relevent future reference.
