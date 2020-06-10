@@ -1,5 +1,6 @@
-# ScholarshipTemplate
-Spreadsheet for estimating scholarship grants that are adjusted to be a percent of the expected yearly costs of college. Allowing for the grant amount to keep pace with inflation.
+# ScholarshipTemplate - inflation adjusting
+This Spreadsheet is for auto-indexing scholarship grants as a percentage of the total expected yearly costs of college.
+As college costs rise, the spreadsheet computes an equivalent increase for the scholarship, which allows for the grant amount to keep pace with inflation.
 ## Instructions
 * Set up the following Beginning initial values:
   * Enter the <B>Start Year</B>
