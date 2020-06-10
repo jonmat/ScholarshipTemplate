@@ -23,3 +23,7 @@ As college costs rise, the spreadsheet computes an equivalent increase for the s
 * The Recommended Scholarship column is a crude approximation for how to extend the life beyond 25 years. A better computation should be explored and replace this column.
 * The notes column should be filled out with any additional addendum information, for relevent future reference.
 * Implementation Note: the spreadsheet makes use of two types of references, one using named cell, the other using named column, e.g. @[Est Costs of College].
+
+## Screenshot
+![](https://github.com/jonmat/ScholarshipTemplate/blob/master/Example.jpg)
+
