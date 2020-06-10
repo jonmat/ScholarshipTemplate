@@ -18,8 +18,8 @@ As college costs rise, the spreadsheet computes an equivalent increase for the s
 
 ## Special notes
 * <B>25 Year Warn====></B> The spreadsheet will highlight a warning, when the Scholarship Grant amount will fall below the expected percent of Yearly College costs designated.
+* The 25 Year Warn gives the opportunity to adjust, delay the scholarship, per instructions setup at the inception of the Endowment, which will help to extend its lifetime.
 * If funds do expire, then <B>Last Year====></B> will be displayed on the last year of the scholarship.
-* This gives the opportunity to adjust, delay the scholarship, per instructions of the Endowment, to help extend its lifetime.
 * The Recommended Scholarship column is a crude approximation for how to extend the life beyond 25 years. A better computation should be explored and replace this column.
 * The notes column should be filled out with any additional addendum information, for relevent future reference.
-* Note that the spreadsheet makes use of two types of references, one using named cell, the other using named column, e.g. @[Est Costs of College].
+* Implementation Note: the spreadsheet makes use of two types of references, one using named cell, the other using named column, e.g. @[Est Costs of College].
